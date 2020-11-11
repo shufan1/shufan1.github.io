@@ -34,14 +34,14 @@ github_username:  jekyll
 t
 # Add your social links
 social:
-  - platform: github
+  - platform: resume
     url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
+#   - platform: facebook
+#     url: https://facebook.com/brianmaierjr
+#   - platform: twitter
+#     url: https://twitter.com/brianmaierjr
   - platform: linkedin
-    url: brianmaierjr
+    url: https://www.linkedin.com/in/shufan-xia-237030158/
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
