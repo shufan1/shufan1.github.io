@@ -21,8 +21,10 @@
 title: Shufan Xia
 email: sxia1@haverford.edu
 description: >- # this means to ignore newlines until "baseurl:"
- Hi, I am Shufan Xia, and this is my personal webpage I am making for fun to I hold some random things.
-
+ Hi, I am Shufan Xia, and this is a personal webpage I am making for fun to I hold some random things.
+ 
+content:
+I am currently a senior at Haverford College. I was born in Osaka, Japan and grew up in Shanghai, China. I major in Physics concnetrated on scientific computing, but have a heart for history, or just reading texts to know about communities and societal events. I love deriving equations, programming, making beautiful data visualization. I am looking forward to transition from Physics to Data Science after graduation next May. In my free time, I play ultimate frisbee, run and bake.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sxia.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
